@@ -1,0 +1,201 @@
+{
+  
+  "quiz": [
+    {
+      
+      "categoria": "HTML",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a função da tag <head> no HTML?",
+          "opcoes": [
+            {"chave": "a", "texto": "Armazenar o conteúdo visível da página"},
+            {"chave": "b", "texto": "Fornecer informações sobre a página, como título e links para estilos"},
+            {"chave": "c", "texto": "Definir a estrutura das listas de navegação"},
+            {"chave": "d", "texto": "Definir o corpo principal da página"}
+          ],
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual tag é usada para criar uma tabela em HTML?",
+          "opcoes": [
+            {"chave": "a", "texto": "<table>"},
+            {"chave": "b", "texto": "<list>"},
+            {"chave": "c", "texto": "<grid>"},
+            {"chave": "d", "texto": "<row>"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é a tag <form> no HTML?",
+          "opcoes": [
+            {"chave": "a", "texto": "Usada para definir seções de navegação"},
+            {"chave": "b", "texto": "Utilizada para criar formulários de entrada para o usuário"},
+            {"chave": "c", "texto": "Define a área do cabeçalho"},
+            {"chave": "d", "texto": "Usada para incluir mídias como imagens e vídeos"}
+          ],
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual atributo é necessário para definir a URL de uma imagem na tag <img>?",
+          "opcoes": [
+            {"chave": "a", "texto": "src"},
+            {"chave": "b", "texto": "href"},
+            {"chave": "c", "texto": "alt"},
+            {"chave": "d", "texto": "link"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual tag HTML é usada para criar uma lista não ordenada?",
+          "opcoes": [
+            {"chave": "a", "texto": "<ol>"},
+            {"chave": "b", "texto": "<ul>"},
+            {"chave": "c", "texto": "<list>"},
+            {"chave": "d", "texto": "<menu>"}
+          ],
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual tag HTML é usada para criar uma âncora de link?",
+          "opcoes": [
+            {"chave": "a", "texto": "<link>"},
+            {"chave": "b", "texto": "<anchor>"},
+            {"chave": "c", "texto": "<a>"},
+            {"chave": "d", "texto": "<href>"}
+          ],
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "categoria": "CSS",
+      "perguntas": [
+        {
+          "pergunta": "Qual propriedade CSS é usada para mudar o tamanho da fonte de um elemento?",
+          "opcoes": [
+            {"chave": "a", "texto": "font-size"},
+            {"chave": "b", "texto": "text-size"},
+            {"chave": "c", "texto": "font-family"},
+            {"chave": "d", "texto": "font-style"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Como você adiciona uma borda de 1px sólida vermelha a um elemento em CSS?",
+          "opcoes": [
+            {"chave": "a", "texto": "border: 1px solid red;"},
+            {"chave": "b", "texto": "borda: 1px; vermelho;"},
+            {"chave": "c", "texto": "border: solid red 1px;"},
+            {"chave": "d", "texto": "border-color: red; border-width: 1px;"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a propriedade CSS usada para controlar o espaçamento entre as palavras em um parágrafo?",
+          "opcoes": [
+            {"chave": "a", "texto": "letter-spacing"},
+            {"chave": "b", "texto": "word-spacing"},
+            {"chave": "c", "texto": "text-spacing"},
+            {"chave": "d", "texto": "line-height"}
+          ],
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que faz a propriedade CSS 'display: flex;'?",
+          "opcoes": [
+            {"chave": "a", "texto": "Exibe um elemento como bloco"},
+            {"chave": "b", "texto": "Exibe o conteúdo em uma linha horizontal"},
+            {"chave": "c", "texto": "Permite o alinhamento flexível de itens dentro de um contêiner"},
+            {"chave": "d", "texto": "Oculta o elemento"}
+          ],
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual propriedade CSS é usada para definir a largura de um elemento?",
+          "opcoes": [
+            {"chave": "a", "texto": "width"},
+            {"chave": "b", "texto": "height"},
+            {"chave": "c", "texto": "size"},
+            {"chave": "d", "texto": "display"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Como você adiciona sombra ao texto em CSS?",
+          "opcoes": [
+            {"chave": "a", "texto": "text-shadow"},
+            {"chave": "b", "texto": "box-shadow"},
+            {"chave": "c", "texto": "shadow-text"},
+            {"chave": "d", "texto": "text-effect"}
+          ],
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "categoria": "JavaScript",
+      "perguntas": [
+        {
+          "pergunta": "Qual comando é usado para exibir uma mensagem na tela?",
+          "opcoes": [
+            {"chave": "a", "texto": "alert('mensagem')"},
+            {"chave": "b", "texto": "console.log('mensagem')"},
+            {"chave": "c", "texto": "prompt('mensagem')"},
+            {"chave": "d", "texto": "display('mensagem')"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Como você cria uma variável em JavaScript?",
+          "opcoes": [
+            {"chave": "a", "texto": "let var = 10;"},
+            {"chave": "b", "texto": "var = 10;"},
+            {"chave": "c", "texto": "let = 10;"},
+            {"chave": "d", "texto": "variable var = 10;"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Como você declara uma função anônima em JavaScript?",
+          "opcoes": [
+            {"chave": "a", "texto": "function() {}"},
+            {"chave": "b", "texto": "() => {}"},
+            {"chave": "c", "texto": "func() {}"},
+            {"chave": "d", "texto": "function anonymous() {}"}
+          ],
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual método em JavaScript é utilizado para transformar uma string em um número?",
+          "opcoes": [
+            {"chave": "a", "texto": "parseInt()"},
+            {"chave": "b", "texto": "toInt()"},
+            {"chave": "c", "texto": "convertToNumber()"},
+            {"chave": "d", "texto": "parseNumber()"}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual operador é usado para comparar dois valores em JavaScript?",
+          "opcoes": [
+            {"chave": "a", "texto": "==="},
+            {"chave": "b", "texto": "=="},
+            {"chave": "c", "texto": "="},
+            {"chave": "d", "texto": "=="}
+          ],
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Como você adiciona um item no final de um array em JavaScript?",
+          "opcoes": [
+            {"chave": "a", "texto": "push()"},
+            {"chave": "b", "texto": "add()"},
+            {"chave": "c", "texto": "append()"},
+            {"chave": "d", "texto": "insert()"}
+          ],
+          "resposta_correta": "a"
+        }
+      ]
+    }
+  ]
+}
